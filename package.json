@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "format": "prettier --log-level=warn --write ./src/*.{js,css,html}",
+    "format": "prettier --log-level=warn --write ./src/**/*.{js,css,html}",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
