@@ -10,74 +10,74 @@ body {
 
 @font-face {
   font-family: 'Proxima Nova Bold';
-  src: url('/assets/fonts/Proxima-Nova/Proxima-Nova-Bold.eot');
+  src: url('../assets/fonts/Proxima-Nova/Proxima-Nova-Bold.eot');
   src:
-    url('/assets/fonts/Proxima-Nova/Proxima-Nova-Bold.eot?#iefix')
+    url('../assets/fonts/Proxima-Nova/Proxima-Nova-Bold.eot?#iefix')
       format('embedded-opentype'),
-    url('/assets/fonts/Proxima-Nova/Proxima-Nova-Bold.woff') format('woff'),
-    url('/assets/fonts/Proxima-Nova/Proxima-Nova-Bold.ttf') format('truetype'),
-    url('/assets/fonts/Proxima-Nova/Proxima-Nova-Bold.svg#webfont')
+    url('../assets/fonts/Proxima-Nova/Proxima-Nova-Bold.woff') format('woff'),
+    url('../assets/fonts/Proxima-Nova/Proxima-Nova-Bold.ttf') format('truetype'),
+    url('../assets/fonts/Proxima-Nova/Proxima-Nova-Bold.svg#webfont')
       format('svg');
 }
 
 @font-face {
   font-family: 'Proxima Nova Semibold';
-  src: url('/assets/fonts/Proxima-Nova/Proxima-Nova-Semibold.eot');
+  src: url('../assets/fonts/Proxima-Nova/Proxima-Nova-Semibold.eot');
   src:
-    url('/assets/fonts/Proxima-Nova/Proxima-Nova-Semibold.eot?#iefix')
+    url('../assets/fonts/Proxima-Nova/Proxima-Nova-Semibold.eot?#iefix')
       format('embedded-opentype'),
-    url('/assets/fonts/Proxima-Nova/Proxima-Nova-Semibold.woff') format('woff'),
-    url('/assets/fonts/Proxima-Nova/Proxima-Nova-Semibold.ttf')
+    url('../assets/fonts/Proxima-Nova/Proxima-Nova-Semibold.woff') format('woff'),
+    url('../assets/fonts/Proxima-Nova/Proxima-Nova-Semibold.ttf')
       format('truetype'),
-    url('/assets/fonts/Proxima-Nova/Proxima-Nova-Semibold.svg#webfont')
+    url('../assets/fonts/Proxima-Nova/Proxima-Nova-Semibold.svg#webfont')
       format('svg');
 }
 
 @font-face {
   font-family: 'Proxima Nova';
-  src: url('/assets/fonts/Proxima-Nova/Proxima-Nova-Regular.eot');
+  src: url('../assets/fonts/Proxima-Nova/Proxima-Nova-Regular.eot');
   src:
-    url('/assets/fonts/Proxima-Nova/Proxima-Nova-Regular.eot?#iefix')
+    url('../assets/fonts/Proxima-Nova/Proxima-Nova-Regular.eot?#iefix')
       format('embedded-opentype'),
-    url('/assets/fonts/Proxima-Nova/Proxima-Nova-Regular.woff') format('woff'),
-    url('/assets/fonts/Proxima-Nova/Proxima-Nova-Regular.ttf')
+    url('../assets/fonts/Proxima-Nova/Proxima-Nova-Regular.woff') format('woff'),
+    url('../assets/fonts/Proxima-Nova/Proxima-Nova-Regular.ttf')
       format('truetype'),
-    url('/assets/fonts/Proxima-Nova/Proxima-Nova-Regular.svg#webfont')
+    url('../assets/fonts/Proxima-Nova/Proxima-Nova-Regular.svg#webfont')
       format('svg');
 }
 
 @font-face {
   font-family: 'Proxima Nova Thin';
-  src: url('/assets/fonts/Proxima-Nova/Proxima-Nova-Thin.eot');
+  src: url('../assets/fonts/Proxima-Nova/Proxima-Nova-Thin.eot');
   src:
-    url('/assets/fonts/Proxima-Nova/Proxima-Nova-Thin.eot?#iefix')
+    url('../assets/fonts/Proxima-Nova/Proxima-Nova-Thin.eot?#iefix')
       format('embedded-opentype'),
-    url('/assets/fonts/Proxima-Nova/Proxima-Nova-Thin.woff') format('woff'),
-    url('/assets/fonts/Proxima-Nova/Proxima-Nova-Thin.ttf') format('truetype'),
-    url('/assets/fonts/Proxima-Nova/Proxima-Nova-Thin.svg#webfont')
+    url('../assets/fonts/Proxima-Nova/Proxima-Nova-Thin.woff') format('woff'),
+    url('../assets/fonts/Proxima-Nova/Proxima-Nova-Thin.ttf') format('truetype'),
+    url('../assets/fonts/Proxima-Nova/Proxima-Nova-Thin.svg#webfont')
       format('svg');
 }
 
 @font-face {
   font-family: 'Uniwars';
-  src: url('/assets/fonts/Uniwars/UniwarsW00-Regular.eot');
+  src: url('../assets/fonts/Uniwars/UniwarsW00-Regular.eot');
   src:
-    url('/assets/fonts/Uniwars/UniwarsW00-Regular.eot?#iefix')
+    url('../assets/fonts/Uniwars/UniwarsW00-Regular.eot?#iefix')
       format('embedded-opentype'),
-    url('/assets/fonts/Uniwars/UniwarsW00-Regular.woff') format('woff'),
-    url('/assets/fonts/Uniwars/UniwarsW00-Regular.ttf') format('truetype'),
-    url('/assets/fonts/Uniwars/UniwarsW00-Regular.svg#webfont') format('svg');
+    url('../assets/fonts/Uniwars/UniwarsW00-Regular.woff') format('woff'),
+    url('../assets/fonts/Uniwars/UniwarsW00-Regular.ttf') format('truetype'),
+    url('../assets/fonts/Uniwars/UniwarsW00-Regular.svg#webfont') format('svg');
 }
 
 @font-face {
   font-family: 'Univia-Pro';
-  src: url('/assets/fonts/Univia-Pro/UniviaPro-Light.eot');
+  src: url('../assets/fonts/Univia-Pro/UniviaPro-Light.eot');
   src:
-    url('/assets/fonts/Univia-Pro/UniviaPro-Light.eot?#iefix')
+    url('../assets/fonts/Univia-Pro/UniviaPro-Light.eot?#iefix')
       format('embedded-opentype'),
-    url('/assets/fonts/Univia-Pro/UniviaPro-Light.woff') format('woff'),
-    url('/assets/fonts/Univia-Pro/UniviaPro-Light.ttf') format('truetype'),
-    url('/assets/fonts/Univia-Pro/UniviaPro-Light.svg#webfont') format('svg');
+    url('../assets/fonts/Univia-Pro/UniviaPro-Light.woff') format('woff'),
+    url('../assets/fonts/Univia-Pro/UniviaPro-Light.ttf') format('truetype'),
+    url('../assets/fonts/Univia-Pro/UniviaPro-Light.svg#webfont') format('svg');
 }
 
 body {
