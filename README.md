@@ -9,4 +9,5 @@ Automatically deployed via Github Action on branch `main` to https://dark-reign.
 ## Credits
 
 2024 - Orinal @Magpie aka MagpieTactics™ via Squarespace
+
 2025 - Revamp pure Vannila HTML5 @hthetiot
